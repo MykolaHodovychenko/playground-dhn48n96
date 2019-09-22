@@ -7,4 +7,5 @@
 * [1. Базовые сведения о программировании](sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya/untitled.md)
 * [2. Основы Python](sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya/2.-osnovy-python.md)
 * [Задание](sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya/zadanie.md)
+* [3. Процедурное и объектно-ориентированное программирование](sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya/3.-procedurnoe-i-obektno-orientirovannoe-programmirovanie.md)
 
