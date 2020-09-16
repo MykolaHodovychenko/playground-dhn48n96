@@ -2,7 +2,7 @@
 
 * [Главная](README.md)
 
-## Спринт 1. Базовые знания и основы программирования
+## Тема 1. Базовое понятие программирования, язык Python <a id="sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya"></a>
 
 * [1. Базовые сведения о программировании](sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya/untitled.md)
 * [2. Основы Python](sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya/2.-osnovy-python.md)
