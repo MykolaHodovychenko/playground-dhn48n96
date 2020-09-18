@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Главная](README.md)
+* [Установка программного обеспечения](install.md)
 
 ## Тема 1. Базовое понятие программирования, язык Python <a id="sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya"></a>
 
-* [Установка программного обеспечения](sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya/install.md)
 * [1. Базовые сведения о программировании](sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya/untitled.md)
 * [2. Основы Python](sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya/2.-osnovy-python.md)
 
