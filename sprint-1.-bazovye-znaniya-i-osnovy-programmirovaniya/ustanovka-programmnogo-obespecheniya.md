@@ -24,9 +24,7 @@
 
 ![](../.gitbook/assets/image%20%289%29.png)
 
-Вернитесь в Android Navigator, запустите **CMD.exe Prompt**. В открывшемся консольном окне введите `python` и нажмите Enter. Убедитесь, что запускается интерпретатор Python версии 3 и выше
+Вернитесь в Android Navigator, запустите **CMD.exe Prompt**. В открывшемся консольном окне введите `python` и нажмите Enter. Убедитесь, что запускается интерпретатор Python версии 3 и выше.
 
 ![](../.gitbook/assets/image%20%2813%29.png)
-
-
 
