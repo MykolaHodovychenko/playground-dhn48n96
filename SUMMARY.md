@@ -10,6 +10,10 @@
   * [Булевы выражения](sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya/2.-osnovy-python/uslovnoe-vypolnenie.md)
   * [Поток команд \(Control Flow\)](sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya/2.-osnovy-python/potok-komand-control-flow.md)
 
+## Лабораторные работы
+
+* [Лабораторная работа 1](laboratornye-raboty/laboratornaya-rabota-1.md)
+
 ## draft
 
 * [Архив](draft/arkhiv/README.md)
