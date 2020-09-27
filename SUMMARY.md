@@ -9,6 +9,7 @@
 * [2. Основы Python](sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya/2.-osnovy-python/README.md)
   * [Булевы выражения](sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya/2.-osnovy-python/uslovnoe-vypolnenie.md)
   * [Поток команд \(Control Flow\)](sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya/2.-osnovy-python/potok-komand-control-flow.md)
+  * [Функции в Python](sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya/2.-osnovy-python/funkcii-v-python.md)
 
 ## Лабораторные работы
 
