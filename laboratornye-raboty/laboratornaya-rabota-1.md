@@ -30,7 +30,7 @@
 
 Ссылка на лабораторную работу - [http://bit.do/ai20\_lab1](http://bit.do/ai20_lab1)
 
-Необходимо до 05.10 скинуть ссылку на notebook с выполненным заданием в папку по ссылке
+Необходимо до **04 октября включительно** скинуть ссылку на notebook с выполненным заданием в папку по ссылке
 
 [https://drive.google.com/drive/folders/13pnISnknNscBSxNuM15KIvIQMOlUca0b?usp=sharing](https://drive.google.com/drive/folders/13pnISnknNscBSxNuM15KIvIQMOlUca0b?usp=sharing)
 
