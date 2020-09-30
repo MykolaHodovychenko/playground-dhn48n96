@@ -15,6 +15,10 @@
 
 * [Лабораторная работа 1](laboratornye-raboty/laboratornaya-rabota-1.md)
 
+## Практические работы
+
+* [Практическая работа 1. Работа с битами](prakticheskie-raboty/prakticheskaya-rabota-1.-rabota-s-bitami.md)
+
 ## draft
 
 * [Архив](draft/arkhiv/README.md)
