@@ -10,3 +10,5 @@
 * **telegram**: @MykolaHdv
 * **Консультации**: TBD
 
+## [Электронный журнал](https://docs.google.com/spreadsheets/d/1JuZ7gJfLVe5OIjTwrEWKMSl3oah4r_FKinBiDvxo0IA/edit?usp=sharing)
+
