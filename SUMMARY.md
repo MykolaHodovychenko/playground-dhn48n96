@@ -11,7 +11,7 @@
   * [Поток команд \(Control Flow\)](sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya/2.-osnovy-python/potok-komand-control-flow.md)
   * [Функции в Python](sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya/2.-osnovy-python/funkcii-v-python.md)
   * [Списки](sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya/2.-osnovy-python/spiski.md)
-  * [Команды if](sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya/2.-osnovy-python/komandy-if.md)
+  * [Работа со списками](sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya/2.-osnovy-python/komandy-if.md)
 
 ## Лабораторные работы
 
