@@ -16,6 +16,7 @@
 ## Лабораторные работы
 
 * [Лабораторная работа 1](laboratornye-raboty/laboratornaya-rabota-1.md)
+* [Лабораторная работа 2](laboratornye-raboty/laboratornaya-rabota-2.md)
 
 ## Практические работы
 
