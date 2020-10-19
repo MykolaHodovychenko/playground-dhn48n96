@@ -21,6 +21,7 @@
 ## Практические работы
 
 * [Практическая работа 1. Работа с битами](prakticheskie-raboty/prakticheskaya-rabota-1.-rabota-s-bitami.md)
+* [Практическая работа 2. Базовые сведения об алгоритмах](prakticheskie-raboty/prakticheskaya-rabota-2.-bazovye-svedeniya-ob-algoritmakh.md)
 
 ## draft
 
