@@ -21,11 +21,11 @@
 ## Практические работы
 
 * [Практическая работа 1. Работа с битами](prakticheskie-raboty/prakticheskaya-rabota-1.-rabota-s-bitami.md)
-* [Практическая работа 2. Базовые сведения об алгоритмах](prakticheskie-raboty/prakticheskaya-rabota-2.-bazovye-svedeniya-ob-algoritmakh.md)
 
 ## draft
 
 * [Архив](draft/arkhiv/README.md)
+  * [Практическая работа 2. Базовые сведения об алгоритмах](draft/arkhiv/prakticheskaya-rabota-2.-bazovye-svedeniya-ob-algoritmakh.md)
   * [Untitled](draft/arkhiv/untitled.md)
   * [3. Процедурное и объектно-ориентированное программирование](draft/arkhiv/3.-procedurnoe-i-obektno-orientirovannoe-programmirovanie.md)
   * [Задание](draft/arkhiv/zadanie.md)
