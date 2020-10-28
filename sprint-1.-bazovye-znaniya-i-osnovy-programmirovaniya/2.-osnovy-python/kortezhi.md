@@ -45,5 +45,16 @@ for index in range(len(tpl)):
 
 #### Преобразование между списками и кортежами
 
+Встроенная функция `list()` может применяться для преобразования кортежа в список, а встроенная функция `tuple()` - для преобразования списка в кортеж.
 
+```python
+tpl = (1, 2, 3, 4, 5)
+print(type(tpl)) # <class 'tuple'>
+
+lst = list(tpl)
+print(type(lst)) # <class 'list'>
+
+tpl2 = tuple(lst)
+print(type(tpl2)) # <class 'tuple'>
+```
 
