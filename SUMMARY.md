@@ -12,6 +12,7 @@
   * [Функции в Python](sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya/2.-osnovy-python/funkcii-v-python.md)
   * [Списки](sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya/2.-osnovy-python/spiski.md)
   * [Циклы. Работа со списками](sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya/2.-osnovy-python/komandy-if.md)
+  * [Кортежи](sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya/2.-osnovy-python/kortezhi.md)
 
 ## Лабораторные работы
 
