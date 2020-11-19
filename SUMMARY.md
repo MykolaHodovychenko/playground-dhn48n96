@@ -15,6 +15,7 @@
   * [Кортежи](sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya/2.-osnovy-python/kortezhi.md)
   * [Словари](sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya/2.-osnovy-python/slovari.md)
   * [Строки](sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya/2.-osnovy-python/stroki.md)
+  * [Модули и пакеты](sprint-1.-bazovye-znaniya-i-osnovy-programmirovaniya/2.-osnovy-python/moduli-i-pakety.md)
 
 ## Лабораторные работы
 
